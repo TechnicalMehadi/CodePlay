@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+CodePlay;Edit+HTML+CSS+JS+with+Live+Output" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+CodePlay;HTML+CSS+JS+with+Live+Output" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🎨💻 CodePlay – Live Code Editor</h1>
@@ -54,7 +55,6 @@ Then open:
 index.html → Launch in your browser.
 
 
----
 
 💡 Open Source License
 
@@ -67,9 +67,6 @@ This project is licensed under the MIT License, meaning you are free to:
 > You have my full permission to build and share your creativity ❤️
 
 
-
-
----
 
 🤝 Contribute
 
@@ -85,7 +82,6 @@ Performance improvements
 Just open a pull request — all contributors are welcome!
 
 
----
 
 🙋‍♂️ Developed By
 
@@ -93,12 +89,11 @@ Md Mehadi Hasan Shuvo
 📧 Email: official.mdmehadihasan@gmail.com
 🌐 GitHub: @TechnicalMehadi
 
-> "CodePlay – Practice, Learn & Build in Real-Time!"
+> 💬 "CodePlay – Practice, Learn & Build in Real-Time!"
 🧠 Learning has never been this interactive.
 
 
-
+```
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300" alt="code typing gif" />
 </p>
-```
