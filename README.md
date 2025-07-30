@@ -12,35 +12,35 @@
 
 ---
 
-## ✨ What's CodePlay?
+## ✨ What is CodePlay?
 
-**CodePlay** হলো একটি ওপেন সোর্স লাইভ কোড এডিটর, যেখানে আপনি HTML, CSS ও JavaScript লিখে **সাথে সাথেই আউটপুট** দেখতে পারবেন।  
-সবচেয়ে ভালো দিক হলো – কোনো সফটওয়্যার দরকার নেই, শুধুই একটি ব্রাউজারই যথেষ্ট।
+**CodePlay** is an open-source live code editor where you can write HTML, CSS, and JavaScript — and instantly see the output in real-time.  
+Best part? You don't need to install any software — just use your web browser.
 
 ---
 
 ## 🔥 Features
 
 - 🔁 **Real-time Output Preview**
-- ✍️ **Separate Editors for HTML, CSS, and JS**
-- 📱 **Responsive Design (Mobile/Desktop)**
+- ✍️ **Dedicated Panels for HTML, CSS & JS**
+- 📱 **Fully Responsive Design (Mobile & Desktop)**
 - 🎯 **Beginner-Friendly Interface**
-- 🧪 **Perfect for Practice, Learning & Debugging**
+- 🧪 **Ideal for Practice, Learning & Debugging**
 
 ---
 
 ## 🚀 Try It Live
 
-🔗 **Live Site:**  
+🔗 **Live Demo:**  
 👉 [https://technicalmehadi.github.io/CodePlay/](https://technicalmehadi.github.io/CodePlay/)
 
 ---
 
 ## 🧑‍💻 How to Use
 
-1. রিপোজিটরিটি ক্লোন করুন বা Live Demo ওপেন করুন।
-2. HTML, CSS ও JS কোড লিখুন নির্ধারিত জায়গায়।
-3. নিচে রিয়েল-টাইম আউটপুট দেখতে পারবেন।
+1. Clone the repository or open the live demo.
+2. Write your HTML, CSS, and JavaScript in their respective sections.
+3. See the output instantly in the preview area below.
 
 ---
 
@@ -49,35 +49,53 @@
 ```bash
 git clone https://github.com/TechnicalMehadi/CodePlay.git
 
-তারপর ওপেন করুন:
-index.html → ব্রাউজারে চালু করুন।
+Then open:
 
-💡 Open Source
-
-এই প্রজেক্টটি MIT লাইসেন্সে উন্মুক্ত, তাই আপনি:
-
-✅ ব্যবহার করতে পারেন
-
-🛠️ নিজের মত করে কাস্টমাইজ করতে পারেন
-
-🔁 শেয়ার বা ফোর্ক করে নতুন কিছু তৈরি করতে পারেন
-> আমি আগেই আপনাদের সবাইকে অনুমতি দিয়ে দিয়েছি ❤️
-
-🤝 Contribution
-
-নতুন ফিচার, বাগ ফিক্স বা অপটিমাইজেশন দিতে চাইলে আপনি Pull Request করতে পারেন।
-আমি সবাইকে উন্মুক্তভাবে ওয়েলকাম করি।
+index.html → Launch in your browser.
 
 
-🙋‍♂️ Developed by
+---
+
+💡 Open Source License
+
+This project is licensed under the MIT License, meaning you are free to:
+
+✅ Use it
+🛠️ Modify/customize it
+🔁 Share or fork it to create your own version
+
+> You have my full permission to build and share your creativity ❤️
+
+
+
+
+---
+
+🤝 Contribute
+
+Feel free to contribute by submitting:
+
+New features
+
+Bug fixes
+
+Performance improvements
+
+
+Just open a pull request — all contributors are welcome!
+
+
+---
+
+🙋‍♂️ Developed By
 
 Md Mehadi Hasan Shuvo
-📧 official.mdmehadihasan@gmail.com
-🌐 GitHub – @TechnicalMehadi
-
+📧 Email: official.mdmehadihasan@gmail.com
+🌐 GitHub: @TechnicalMehadi
 
 > "CodePlay – Practice, Learn & Build in Real-Time!"
-🧠 Learning has never been this interactive!
+🧠 Learning has never been this interactive.
+
 
 
 <p align="center">
